@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **UP2013168/UP2013168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+- 📚 Second year student, studying for a Computer Science degree at the University of Portsmouth.
+- 🔭 Proficient in Java and Python, but expanding my skills as I go.
+- 🤔 Currently busy with Uni so do not have many personal projects (all my repositorys are private).
+- ⚡ Fun fact: I skateboard.
+- 📫 How to reach me: You can reach me on discord if you want. My tag is sol#0002.
