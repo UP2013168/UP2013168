@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📚 Second year student, studying for a Computer Science degree at the University of Portsmouth.
 - 🔭 Proficient in Java and Python, but expanding my skills as I go.
 - 🤔 Currently busy with Uni so do not have many personal projects (all my repositorys are private).
-- ⚡ Fun fact: I skateboard.
-- 📫 How to reach me: You can reach me on discord if you want. My tag is sol#0002.
+- ⚡ I skateboard sometimes.
+- 📫 You can reach me on discord if you want. My tag is sol#0002.
