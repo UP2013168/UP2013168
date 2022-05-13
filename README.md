@@ -31,13 +31,12 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=UP2013168&show_icons=true&theme=radical&line_height=27&hide_border=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UP2013168&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&hide_border=true">
 </p>
 
 <br>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=KermitTheFr0g&theme=redical&hide_border=true">
+ <img src="https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=redical&hide_border=true">
 </p>
 <!--
 <hr>
