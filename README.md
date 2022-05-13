@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 - ⚡ I skateboard sometimes.
 - 📫 You can reach me on discord if you want. My tag is sol#0002.
 
-<h2 align="center">My GitHub Stats</h2>
+## My Github stats
 
-<p align="center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">  
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=UP2013168&show_icons=true&theme=radical&line_height=27&hide_border=true">
