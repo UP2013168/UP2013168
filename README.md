@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Github Graph]("https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=gruvbox&hide_border=true")]
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=gruvbox&hide_border=true)
