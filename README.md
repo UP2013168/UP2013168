@@ -27,14 +27,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=UP2013168&show_icons=true&theme=radical&line_height=27&hide_border=true">
-</p>
-
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UP2013168&them=gruvbox)](https://github.com/UP2013168/github-readme-stats)
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=redical&hide_border=true">
+ <img src="https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=gruvbox&hide_border=true">
 </p>
 <!--
 <hr>
