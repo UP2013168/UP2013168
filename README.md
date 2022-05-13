@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ## My Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=github&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=github&hide_border=true)
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=gruvbox&hide_border=true)
