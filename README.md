@@ -22,9 +22,3 @@ Here are some ideas to get you started:
 - 🤔 Currently busy with Uni so do not have many personal projects (all my repositorys are private).
 - ⚡ I skateboard sometimes.
 - 📫 You can reach me on discord if you want. My tag is sol#0002.
-
-## My Github stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UP2013168&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=UP2013168&theme=gruvbox&hide_border=true)
